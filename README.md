@@ -1,6 +1,6 @@
 ## Hugging Face Project:
 
-| Project Name |  Hugging Face Demo
+| Project Name | Project Demo
 | --- | --- |
 |Stable Diffusion Infinite Zoom Out | <a href="https://huggingface.co/spaces/kadirnar/stable-diffusion-2-infinite-zoom-out"><img src="https://img.shields.io/badge/%20HuggingFace%20-Demo-blue.svg" alt="HuggingFace Spaces"></a>
 |Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation| <a href="https://huggingface.co/spaces/kadirnar/Tune-A-Video"><img src="https://img.shields.io/badge/%20HuggingFace%20-Demo-blue.svg" alt="HuggingFace Spaces"></a> 
